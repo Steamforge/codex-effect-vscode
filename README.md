@@ -2,7 +2,7 @@
 
 > 🛸 A dark sci-fi color theme
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Steamforge/codex-effect-vscode/master/images/screenshot.png)
 
 This theme is inspired by all the cool futuristic user interfaces in movies and games. The main inspiration comes from Tron, Iron Man and Mass Effect.
 
