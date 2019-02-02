@@ -4,3 +4,4 @@ demo/**
 .gitignore
 vsc-extension-quickstart.md
 *.vsix
+node_modules/
