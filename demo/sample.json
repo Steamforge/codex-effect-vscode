@@ -1,0 +1,15 @@
+{
+  "answer": 42,
+  "question": [
+    "What do you get when you multiply six by seven?",
+    "How many roads must a man walk down?"
+  ],
+  "computers": [
+    {
+      "name": "Deep Thought"
+    },
+    {
+      "name": "Earth"
+    }
+  ]
+}

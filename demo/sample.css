@@ -1,0 +1,22 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+
+#idName {
+  width: 100%;
+}
+
+.class-name {
+  background-color: #FFFFFF;
+}
+
+a[target="_blank"] {
+  background-color: red;
+}
+
+@media only screen and (min-width: 729px) {
+  body {
+    font-size: 10px;
+  }
+}

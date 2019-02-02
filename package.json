@@ -1,0 +1,36 @@
+{
+  "name": "codex-effect",
+  "displayName": "Codex Effect",
+  "description": "🛸 A dark sci-fi color theme inspired by Mass Effect",
+  "publisher": "steamforge",
+  "license": "MIT",
+  "icon": "images/cortext-effect-logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Steamforge/codex-effect-vscode"
+  },
+  "galleryBanner": {
+    "color": "#0e6b7f",
+    "theme": "dark"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codex Effect",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codex-effect.json"
+      }
+    ]
+  }
+}
