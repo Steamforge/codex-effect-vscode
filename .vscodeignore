@@ -3,3 +3,4 @@ demo/**
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+*.vsix

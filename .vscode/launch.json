@@ -6,10 +6,10 @@
 	"version": "0.2.0",
     "configurations": [
         {
-            "name": "theme",
+            "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
-            "runtimeExecutable": "${execPath}",
+            // "runtimeExecutable": "${execPath}",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ]
