@@ -39,8 +39,13 @@
     "list.focusBackground": "#0e6b7f",
     "list.hoverBackground": "#0e6b7f44",
     "list.inactiveSelectionBackground": "#0e6b7f33",
-    "menu.background": "#252526",
+
+    "menu.background": "#031a1fdd",
     "menu.foreground": "#cccccc",
+    "menu.border": "#0e6b7f44",
+    "menu.selectionBackground": "#0e6b7f",
+    // "menu.selectionForeground": "#031a1f",
+
     "notificationCenterHeader.background": "#0e6b7f",
     "notificationCenterHeader.foreground": "#1cd6ff",
     "panel.background": "#05242b",
@@ -62,7 +67,7 @@
     "textLink.activeForeground": "#ffbe2f",
     "textLink.foreground": "#1cd6ffaa",
     "titleBar.activeBackground": "#05242b",
-    "titleBar.activeForeground": "#1cd6ffaa",
+    "titleBar.activeForeground": "#1cd6ffaa"
     //"activityBar.inactiveForeground": "#1cd6ff99",
     //"breadcrumb.activeSelectionForeground": "#e0e0e0",
     //"breadcrumb.focusForeground": "#e0e0e0",
@@ -744,7 +749,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "italic"
         // "foreground": ""
       }
     },
